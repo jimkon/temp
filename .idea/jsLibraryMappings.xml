@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{final node_modules}" />
+    <file url="file://$PROJECT_DIR$/server/app.js" libraries="{MyApp node_modules}" />
+    <file url="file://$PROJECT_DIR$/server/models/users.js" libraries="{MyApp node_modules}" />
+    <file url="file://$PROJECT_DIR$/server/routes/api.js" libraries="{MyApp node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>

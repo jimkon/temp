@@ -1,0 +1,9 @@
+<div>
+    {{"USERNAME_LABEL"|translate}}: <input type="text" name="username" ng-model="username">
+    <br>
+    {{"PASSWORD_LABEL"|translate}}: <input type="password" name="password" ng-model="password">
+    <br><br>
+    {{$ctrl.loginMessage}}
+    <br>
+    <button ng-click="$ctrl.login(username, password)">{{"LOGIN_BUTTON"|translate}}</button>
+</div>

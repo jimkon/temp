@@ -1,0 +1,9 @@
+<div>
+    {{"USERNAME_LABEL"|translate}}: <input type="text" name="username" ng-model="username">
+    <br>
+    {{"PASSWORD_LABEL"|translate}}: <input type="password" name="password" ng-model="password">
+    <br>
+    {{"EMAIL_LABEL"|translate}}:  <input type="text" name="email" ng-model="email">
+    <br><br>
+    <button ng-click="$ctrl.sendRegistration(username, password, email)">{{"REGISTER_BUTTON"|translate}}</button>
+</div>

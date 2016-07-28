@@ -1,0 +1,19 @@
+{
+  "TITLE":"Profile App",
+  "EN_BUTTON":"English",
+  "GR_BUTTON":"Greek",
+  "HOME":"Home",
+  "LOGIN_LINK":"Login",
+  "REGISTER_LINK":"Register",
+  "USERNAME_LABEL":"Username",
+  "PASSWORD_LABEL":"Password",
+  "EMAIL_LABEL":"Email",
+  "LOGIN_BUTTON":"Login",
+  "REGISTER_BUTTON":"Register",
+  "LOGOUT_MESSAGE":"Good bye",
+  "SAVE_BUTTON":"Save",
+  "PROFILE_BUTTON":"Profile",
+  "MODIFY_LINK":"Modify",
+  "LOGOUT_LINK":"Logout",
+  "USER_LABEL":"User"
+}

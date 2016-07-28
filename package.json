@@ -1,0 +1,37 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "final",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/app.js"
+  },
+  "engines": {
+    "node": "6.3.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "mongodb": "^2.1.18",
+    "mongoose": "^4.5.3",
+    "node-restful": "^0.2.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.0.0",
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-ui-router": "^1.0.0-alpha.3",
+    "angular-cookie": "^4.1.0"
+  },
+  "devDependencies": {
+    "angular-translate": "^2.11.1"
+  }
+}

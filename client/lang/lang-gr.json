@@ -1,0 +1,19 @@
+{
+  "TITLE":"Εφαρμογή",
+  "EN_BUTTON":"Αγγλικά",
+  "GR_BUTTON":"Ελληνικά",
+  "HOME":"Αρχική",
+  "LOGIN_LINK":"Σύνδεση",
+  "REGISTER_LINK":"Εγγραφή",
+  "USERNAME_LABEL":"Όνομα χρήστη",
+  "PASSWORD_LABEL":"Κωδικός",
+  "EMAIL_LABEL":"Ε-μαιλ",
+  "LOGIN_BUTTON":"Σύνδεση",
+  "REGISTER_BUTTON":"Εγγραφή",
+  "LOGOUT_MESSAGE":"Αντίο",
+  "SAVE_BUTTON":"Αποθήκευση",
+  "PROFILE_BUTTON":"Προφίλ",
+  "MODIFY_LINK":"Αλλαγή στοιχείων",
+  "LOGOUT_LINK":"ΈΞοδος",
+  "USER_LABEL":"Χρήστης"
+}
